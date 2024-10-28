@@ -2,8 +2,6 @@
 
 A reinforcement learning project where an agent learns to play the classic Snake game using Proximal Policy Optimization (PPO) or Deep Q-Networks (DQN).
 
-![Snake Game Screenshot](images/snake_game_screenshot.png) <!-- Optional: Add a screenshot of your game -->
-
 ## **Table of Contents**
 
 - [Introduction](#introduction)

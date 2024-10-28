@@ -14,3 +14,6 @@ env/
 
 # MacOS files
 .DS_Store
+
+ppo_snake_cnn_vec.zip
+ppo_snake_tensorboard/
